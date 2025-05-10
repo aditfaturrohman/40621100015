@@ -11,13 +11,13 @@ Aplikasi ToDoList berbasis PHP dan Bootstrap
 - Tampilan menggunakan Bootstrap 5
 
 ## Struktur Folder todolist
--'index.php'
--'logic.php'
--'style.css'
+- 'index.php'
+- 'logic.php'
+- 'style.css'
 
 ## Struktur Folder todolist2
--'index.php'
--'logic.php'
+- 'index.php'
+- 'logic.php'
 
 ## ▶️ Cara Menjalankan
 
