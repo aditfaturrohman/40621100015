@@ -10,7 +10,12 @@ Aplikasi ToDoList berbasis PHP dan Bootstrap
 - Simpan data di session (tanpa database)
 - Tampilan menggunakan Bootstrap 5
 
-## Struktur Folder
+## Struktur Folder todolist
+-'index.php'
+-'logic.php'
+-'style.css'
+
+## Struktur Folder todolist2
 -'index.php'
 -'logic.php'
 
